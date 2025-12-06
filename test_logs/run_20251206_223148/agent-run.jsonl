@@ -1,4 +1,0 @@
-{"timestamp": "2025-12-06T22:31:48.762673", "level": "INFO", "message": "Initializing WildFly Upgrade Agent", "details": {"os": "Windows", "target_version": "27.0.0.Final", "current_home": "None", "health_url": null, "dry_run": true}}
-{"timestamp": "2025-12-06T22:31:48.770432", "level": "INFO", "message": "Checking for vulnerabilities for WildFly 27.0.0.Final...", "details": {}}
-{"timestamp": "2025-12-06T22:31:48.773765", "level": "WARNING", "message": "Found 1 vulnerabilities for WildFly 27.0.0.Final!", "details": {}}
-{"timestamp": "2025-12-06T22:31:48.774812", "level": "ERROR", "message": "Critical vulnerabilities detected. Aborting upgrade to protect system security.", "details": {}}

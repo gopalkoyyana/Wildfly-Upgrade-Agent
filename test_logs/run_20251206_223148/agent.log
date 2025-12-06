@@ -1,4 +1,0 @@
-2025-12-06 22:31:48,762 - INFO - Initializing WildFly Upgrade Agent
-2025-12-06 22:31:48,770 - INFO - Checking for vulnerabilities for WildFly 27.0.0.Final...
-2025-12-06 22:31:48,773 - WARNING - Found 1 vulnerabilities for WildFly 27.0.0.Final!
-2025-12-06 22:31:48,774 - ERROR - Critical vulnerabilities detected. Aborting upgrade to protect system security.

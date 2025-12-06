@@ -1,0 +1,6 @@
+wildfly_upgrade_logs/
+wildfly_backups/
+__pycache__/
+*.zip
+wildfly-*/
+*.pyc

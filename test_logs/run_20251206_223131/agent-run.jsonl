@@ -1,0 +1,4 @@
+{"timestamp": "2025-12-06T22:31:31.675567", "level": "INFO", "message": "Initializing WildFly Upgrade Agent", "details": {"os": "Windows", "target_version": "27.0.0.Final", "current_home": "None", "health_url": null, "dry_run": true}}
+{"timestamp": "2025-12-06T22:31:31.682080", "level": "INFO", "message": "Checking for vulnerabilities for WildFly 27.0.0.Final...", "details": {}}
+{"timestamp": "2025-12-06T22:31:31.685605", "level": "WARNING", "message": "Found 1 vulnerabilities for WildFly 27.0.0.Final!", "details": {}}
+{"timestamp": "2025-12-06T22:31:31.705733", "level": "WARNING", "message": "Failed to check vulnerabilities: 'charmap' codec can't encode characters in position 2-3: character maps to <undefined>", "details": {}}
